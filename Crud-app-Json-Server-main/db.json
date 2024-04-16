@@ -1,0 +1,36 @@
+{
+  "persons": [
+    {
+      "id": "3ee3",
+      "name": "Shubham swami",
+      "email": "shubhamswami@gmail.com",
+      "dob": "2008-01-30",
+      "avatar": "https://via.placeholder.com/150",
+      "country": "India"
+    },
+    {
+      "name": " Shubham Londhe",
+      "email": "shubhamlondhe@gmail.com",
+      "dob": "1997-05-09",
+      "avatar": "https://via.placeholder.com/150",
+      "country": "India",
+      "id": "abf1"
+    },
+    {
+      "id": "ed07",
+      "name": "aadi patil",
+      "email": "aadi@gmail.com",
+      "dob": "1997-11-09",
+      "avatar": "https://via.placeholder.com/150",
+      "country": "india"
+    },
+    {
+      "id": "aeed",
+      "name": "suvidha kamble",
+      "email": "suvi@123",
+      "dob": "2024-04-26",
+      "avatar": "https://via.placeholder.com/150",
+      "country": "india"
+    }
+  ]
+}
